@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#000000"/>
+  <!-- Robot body (shifted left) -->
+  <rect x="70" y="210" width="265" height="162" rx="38" fill="none" stroke="#FFFFFF" stroke-width="30"/>
+  <!-- Robot eyes -->
+  <circle cx="163" cy="291" r="17" fill="#FFFFFF"/>
+  <circle cx="250" cy="291" r="17" fill="#FFFFFF"/>
+  <!-- Antenna stem -->
+  <rect x="193" y="152" width="22" height="66" rx="11" fill="#FFFFFF"/>
+  <!-- Antenna ball -->
+  <circle cx="204" cy="132" r="35" fill="#FFFFFF"/>
+  <circle cx="204" cy="132" r="16" fill="#000000"/>
+  <!-- Paintbrush (violet) — upper-right, overlapping robot -->
+  <!-- Brush head (wide rounded rect) -->
+  <rect x="345" y="108" width="80" height="56" rx="12" fill="#8b5cf6"/>
+  <!-- Brush bristles (3 small rects at bottom of head) -->
+  <rect x="355" y="164" width="12" height="18" rx="3" fill="#8b5cf6"/>
+  <rect x="379" y="164" width="12" height="18" rx="3" fill="#8b5cf6"/>
+  <rect x="403" y="164" width="12" height="18" rx="3" fill="#8b5cf6"/>
+  <!-- Handle -->
+  <rect x="370" y="182" width="30" height="130" rx="8" fill="#8b5cf6"/>
+</svg>
